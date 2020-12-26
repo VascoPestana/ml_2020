@@ -1,12 +1,12 @@
-# Machine Learning Project
+# Machine Learning Project - Newland, the City of the Future
 
-MSc: Data Science and Advanced Analytics (Nova IMS) <br>
-Course: Machine Learning <br>
-This repository holds all the Python code for the Machine Learning project. <br>
-
-Group members: <br>
+Group08 members: <br>
 Carolina Pina <br>
 Mariana Camarneiro <br>
 Matilde Pires <br>
 Rui Monteiro <br>
-Vasco Pestana
+Vasco Pestana <br>
+
+MSc: Data Science and Advanced Analytics - Nova IMS <br>
+Course: Machine Learning <br>
+2020/2021 <br>
